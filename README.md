@@ -15,7 +15,7 @@ The binary distribution is made of two AMP files:
 * [repo AMP](https://github.com/abhinavmishra14/alfresco-mimetype-blocker/releases/download/3.0.0/alfresco-mimetype-blocker-platform-1.0-SNAPSHOT.amp)
 * [share AMP](https://github.com/abhinavmishra14/alfresco-mimetype-blocker/releases/download/3.0.0/alfresco-mimetype-blocker-share-1.0-SNAPSHOT.amp)
 
-You can install it by using standard [Alfresco deployment tools](http://docs.alfresco.com/community/tasks/dev-extensions-tutorials-simple-module-install-amp.html)
+You can install it by using standard [Alfresco deployment tools](https://docs.alfresco.com/community/tasks/amp-install.html)
 
 Building the artifacts
 ----------------------
